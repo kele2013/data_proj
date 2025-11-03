@@ -1,0 +1,3 @@
+org\apache\nifi\processor\StreamLoad\StarRocksStreamLoad.class
+org\apache\nifi\processor\StreamLoad\StreamLoadProcessor.class
+org\apache\nifi\processor\StreamLoad\StarRocksStreamLoad$1.class
